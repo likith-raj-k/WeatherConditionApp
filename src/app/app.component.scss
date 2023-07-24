@@ -1,0 +1,44 @@
+
+.main {
+    margin: auto;
+    padding: 50px;
+    text-align: center;
+  }
+
+  .title, .loading {
+    font-family:cursive;
+    color:black;
+    font-weight:bolder;
+  }
+
+  .location {
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: dotted;
+  }
+
+  .text_bgcolor{
+    background-color:darkgrey;
+    color: black;
+  }
+  
+.container {
+    font-weight: bold;
+    font-family: cursive;
+    color:black;
+    padding-top: 20vh;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+  }
+
+  .weather{
+    background-color:coral;
+  }
+
+  .errorMessage{
+    padding-left: 35%;
+    font-weight: bolder;
+    color:black;
+  }
+
+
